@@ -25,12 +25,12 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1dktj08su8BDe7gw-mtEjbV29mmC-wzjnkI2X9s4g3Kc/edit?hl=en-GB&pli=1&gid=0#gid=0",
+          "value": "<<PLACE GOOGLE SHEET LINK HERE>>",
           "mode": "url"
         },
         "sheetName": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1dktj08su8BDe7gw-mtEjbV29mmC-wzjnkI2X9s4g3Kc/edit?hl=en-GB&pli=1&gid=0#gid=0",
+          "value": "<<PLACE GOOGLE SHEET LINK HERE>>",
           "mode": "url"
         },
         "options": {}
